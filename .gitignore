@@ -1,0 +1,11 @@
+pox
+Diagram.pptx
+__pycache__
+.ipynb_checkpoints/*
+pyKinectAzure
+Pytorch-Sketch-RNN
+.ipynb_checkpoints/
+rnn-39.pt
+toy*
+src
+nohup.out
